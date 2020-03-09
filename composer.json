@@ -1,0 +1,13 @@
+{
+    "name": "rodineiti/generate-pdf-dompdf",
+    "description": "generate sample pdf of html template with dompdf",
+    "authors": [
+        {
+            "name": "Rodinei Developer",
+            "email": "rodineiguitar@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
